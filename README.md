@@ -8,3 +8,5 @@
 **Ngôn ngữ (Language):**<br>
 * Python
 
+**Framework**<br>
+* PyTorch
